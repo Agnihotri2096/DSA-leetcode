@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
