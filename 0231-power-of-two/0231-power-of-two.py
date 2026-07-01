@@ -4,14 +4,8 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        if n<=0:
-            return False
-        while n%2==0:
-            n //=2
-        if n==1:
-            return True
-        else:
-            return False
-
+        #solved using simple loop earlier
+        # now bit manipulation
+        return n > 0 and (n & (n - 1)) == 0
 
             
