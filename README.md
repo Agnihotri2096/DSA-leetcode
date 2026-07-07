@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,5 +106,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
