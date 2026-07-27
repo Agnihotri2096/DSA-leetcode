@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0344-reverse-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Agnihotri2096/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
